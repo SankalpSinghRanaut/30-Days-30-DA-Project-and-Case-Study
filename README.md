@@ -25,4 +25,4 @@ Employee attrition is one of the biggest challenges for HR teams. High turnover 
 
 In this project, I analyzed employee data to uncover the key factors influencing attrition and translated those findings into actionable business recommendations.
 
-🔗 [View Full Case Study]()
+🔗 [View Full Case Study](https://github.com/SankalpSinghRanaut/30-Days-30-DA-Project-and-Case-Study/tree/main/Day%203%20%E2%80%94%20HR%20Employee%20Attrition)
