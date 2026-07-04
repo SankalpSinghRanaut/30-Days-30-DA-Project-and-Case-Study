@@ -1,0 +1,162 @@
+# 📊 Retail Store Sales Performance Analysis
+
+## 📌 Project Overview
+
+Sales growth alone doesn't guarantee business success. A company can generate strong revenue while still losing profitability due to excessive discounting, poor product mix, 
+or ineffective pricing strategies. Understanding what drives both sales and profit is essential for making better business decisions.
+
+In this project, I analyzed retail sales data to identify the key factors affecting business performance and translated those insights into actionable recommendations.
+
+Using **Excel**, **MySQL**, and **Power BI**, I explored how regions, product categories, customer segments, discounts, and seasonal trends influence sales and profitability.
+
+---
+
+## 🎯 Business Problem
+
+The sales leadership team observed strong revenue growth but wanted to determine whether the business was generating profitable growth.
+
+Key questions included:
+
+* Which regions generate the highest sales and profit?
+* Which product categories are the most profitable?
+* Are high discounts reducing profit margins?
+* Which products generate high sales but low or negative profit?
+* How does seasonality affect sales performance?
+* What actions can improve overall profitability?
+
+The goal was to answer these questions using data and recommend strategies that improve both revenue and profit.
+
+---
+
+## 🛠 Tools Used
+
+* **Excel** – Data Cleaning & Preparation
+* **MySQL** – Business Analysis
+* **Power BI** – Interactive Dashboard
+
+---
+
+## 📂 Dataset
+
+**Source:** Sample Superstore Dataset
+
+**Dataset Size**
+
+* ~10,000 Orders
+* Customer Information
+* Product Categories & Sub-Categories
+* Regional Sales Data
+* Customer Segments
+* Sales & Profit
+* Discount Information
+* Shipping Details
+
+---
+
+## 📈 Business Questions
+
+This project answers the following business questions:
+
+* Which region generates the highest sales and profit?
+* Which product category has the highest profitability?
+* Which sub-category contributes the biggest losses?
+* How do discounts impact profit margins?
+* Which customer segment contributes the highest revenue?
+* Is there a seasonal trend in sales performance?
+* Which products should the business invest in?
+
+---
+
+## 📊 Key Insights
+
+### 📌 Regional Analysis
+
+* The **West** region generated the highest sales (**$725K+**) while also achieving the strongest profit margin (**14.94%**).
+* The **South** recorded the lowest overall sales performance.
+
+---
+
+### 📌 Category Analysis
+
+* **Technology** recorded the highest profit margin (**17.40%**).
+* **Furniture** generated strong sales but had the weakest profitability.
+
+---
+
+### 📌 Product Analysis
+
+* The **Tables** sub-category generated over **$206K** in sales but resulted in more than **$17K** in losses.
+* Higher sales volume did not translate into higher profitability.
+
+---
+
+### 📌 Discount Analysis
+
+* Orders with discounts above **40%** averaged a loss of **$106.71 per order**.
+* Higher discounts consistently reduced overall profit margins.
+
+---
+
+### 📌 Seasonal Analysis
+
+* **Q4 (October–December)** consistently generated the highest sales across all years.
+* Seasonal demand presents an opportunity for better inventory planning.
+
+---
+
+### 📌 Customer Segment Analysis
+
+* The **Consumer** segment contributed the highest sales and profit.
+* **Standard Class** shipping generated the greatest overall business value.
+
+---
+
+## 💡 Business Recommendations
+
+Based on the analysis, I recommend:
+
+* Review discount policies for loss-making products and sub-categories.
+* Reassess pricing strategies for the Furniture category.
+* Increase investment in high-margin Technology products.
+* Prepare inventory ahead of Q4 seasonal demand.
+* Monitor profitability alongside revenue when evaluating business performance.
+* Introduce approval policies for high-discount transactions.
+* Build a profitability dashboard to continuously monitor sales, margins, and discount performance.
+
+---
+
+## 📊 Dashboard Features
+
+The Power BI dashboard includes:
+
+* Overall Sales & Profit KPIs
+* Regional Sales & Profit Analysis
+* Category & Sub-Category Performance
+* Customer Segment Analysis
+* Monthly & Quarterly Sales Trends
+* Profitability Analysis
+* Interactive Filters & Slicers
+
+---
+
+## 📁 Repository Contents
+
+
+📁 Excel Files
+📁 SQL Queries
+📁 Power BI Dashboard
+📁 Dashboard Screenshots
+📄 Case Study Report
+📄 About Project
+
+
+---
+
+## 🚀 What I Learned
+
+This project reinforced that effective data analysis goes beyond building dashboards. 
+By approaching the dataset from a business perspective, I focused on understanding how pricing, discounts, 
+product performance, and customer behavior influence profitability. 
+
+Instead of simply reporting sales figures, 
+I translated analytical findings into practical recommendations that business leaders can use to improve profitability and make more informed decisions.
