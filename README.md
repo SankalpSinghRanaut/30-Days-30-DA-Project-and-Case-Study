@@ -45,3 +45,15 @@ In this project, I analyzed retail sales data to identify the key factors affect
 
 🔗 [View Full Case Study](https://github.com/SankalpSinghRanaut/30-Days-30-DA-Project-and-Case-Study/tree/main/Day%204%20%E2%80%94%20Retail%20Store%20Sales%20Performance)
 
+
+### Day 5 — Marketing: Campaign Performance
+
+## 📌 Project Overview
+
+Running multiple marketing campaigns doesn't guarantee better customer engagement or higher revenue. To maximize marketing ROI, businesses need to understand which campaigns resonate with customers, which customer segments generate the highest value, and how purchasing behavior differs across channels.
+
+In this project, I analyzed customer marketing data to evaluate campaign performance, identify high-value customer segments, and uncover the key factors influencing customer spending and campaign response.
+
+🔗 [View Full Case Study](https://github.com/SankalpSinghRanaut/30-Days-30-DA-Project-and-Case-Study/tree/main/Day%205%20%E2%80%94%20Marketing%20Campaign%20Performance).
+
+
