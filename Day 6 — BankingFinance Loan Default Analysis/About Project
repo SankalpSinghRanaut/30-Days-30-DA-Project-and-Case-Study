@@ -1,0 +1,165 @@
+# 📊 Credit Risk & Loan Default Analysis
+
+## 📌 Project Overview
+
+Approving more loans doesn't always lead to higher profitability. While lending generates interest income, poor credit decisions can significantly increase default losses and reduce the overall performance of the loan portfolio. To improve lending outcomes, banks need to understand which borrowers are most likely to default, whether their current risk assessment is effective, and which borrower segments require stricter underwriting.
+
+In this project, I analyzed a consumer credit risk dataset to identify the key factors influencing loan defaults, evaluate the effectiveness of the bank's credit grading system, and uncover opportunities to improve lending decisions.
+
+Using **Excel**, **MySQL**, and **Power BI**, I analyzed borrower demographics, income, employment history, home ownership, loan purpose, loan grades, credit history, and interest rates to deliver actionable business recommendations for improving credit risk management.
+
+---
+
+## 🎯 Business Problem
+
+The bank's risk management team observed rising loan default rates but lacked clear visibility into which borrower segments were contributing the most to credit losses.
+
+Key questions included:
+
+* What is the overall loan default rate and how does home ownership affect it?
+* Which loan purpose has the highest default rate?
+* Does borrower income accurately predict default risk?
+* Does the bank's loan grading system effectively measure borrower risk?
+* Does a previous default on file predict future loan default?
+* Are higher-risk borrowers being charged appropriate interest rates?
+
+The goal was to answer these questions using data and recommend strategies that reduce default risk, improve lending decisions, and strengthen the bank's loan portfolio.
+
+---
+
+## 🛠 Tools Used
+
+* **Excel** – Data Cleaning & Preparation
+* **MySQL** – Business Analysis
+* **Power BI** – Interactive Dashboard
+
+---
+
+## 📂 Dataset
+
+**Source:** Credit Risk Dataset
+
+**Dataset Size**
+
+* ~32,500 Loan Applications
+* Borrower Demographics
+* Annual Income
+* Employment Length
+* Home Ownership Status
+* Loan Purpose
+* Loan Grade
+* Loan Amount
+* Interest Rate
+* Credit History Length
+* Previous Default Records
+* Loan Repayment Status
+
+---
+
+## 📈 Business Questions
+
+This project answers the following business questions:
+
+* What is the overall loan default rate and how does home ownership affect it?
+* Which loan purpose has the highest default rate?
+* Does borrower income influence loan default risk?
+* Does the bank's loan grading system accurately reflect borrower risk?
+* Does a previous default on file predict future loan default?
+* Are defaulted loans charged higher interest rates than non-defaulted loans?
+
+---
+
+## 📊 Key Insights
+
+### 📌 Home Ownership & Default Analysis
+
+* The **overall loan default rate was 21.82%**.
+* **Renters** recorded the highest default rate (**31.58%**), while **homeowners** recorded the lowest default rate (**7.47%**), indicating that home ownership is a strong indicator of borrower financial stability.
+
+---
+
+### 📌 Loan Purpose Analysis
+
+* **Debt Consolidation** loans recorded the highest default rate, highlighting borrowers who may already be experiencing financial stress before applying for credit.
+* **Medical** and **Personal** loans also showed relatively higher default rates, suggesting these loan purposes require enhanced underwriting.
+
+---
+
+### 📌 Income & Default Analysis
+
+* Borrowers with lower annual incomes experienced significantly higher default rates than higher-income borrowers.
+* However, the **loan-to-income ratio** proved to be a stronger indicator of repayment risk than income alone, making affordability a more reliable measure of credit risk.
+
+---
+
+### 📌 Loan Grade Analysis
+
+* Default rates increased consistently from **Grade A** to **Grade G**, confirming that the bank's credit grading system effectively differentiates borrower risk.
+* Higher-risk grades continue to experience elevated default rates despite higher interest charges, suggesting opportunities to refine pricing and lending policies.
+
+---
+
+### 📌 Previous Default Analysis
+
+* Borrowers with a **previous default on file** were significantly more likely to default again than applicants with clean credit histories.
+* Previous default history emerged as one of the strongest predictors of future loan default.
+
+---
+
+### 📌 Interest Rate Analysis
+
+* Defaulted loans carried a slightly higher average interest rate than successfully repaid loans.
+* Although the bank charges higher rates to riskier borrowers, the pricing difference appears relatively small and may not fully compensate for increased default losses.
+
+---
+
+## 💡 Business Recommendations
+
+Based on the analysis, I recommend:
+
+* Strengthen lending policies for applicants with previous default history through enhanced credit assessments and stricter approval criteria.
+* Re-evaluate pricing strategies for higher-risk loan grades to ensure interest rates adequately compensate for increased default risk.
+* Apply enhanced underwriting for **Debt Consolidation** and **Medical** loans due to their higher default concentration.
+* Develop a comprehensive credit risk score by combining **Loan Grade**, **Previous Default History**, **Loan-to-Income Ratio**, and **Employment Length**.
+* Introduce affordability thresholds by limiting loans with excessively high loan-to-income ratios.
+* Continuously monitor borrower segments and loan performance to identify emerging credit risks and improve lending strategies.
+
+---
+
+## 📊 Dashboard Features
+
+The Power BI dashboard includes:
+
+* Loan Portfolio KPIs
+* Default Rate Analysis
+* Home Ownership Analysis
+* Loan Purpose Analysis
+* Income & Credit Risk Analysis
+* Loan Grade Performance Analysis
+* Previous Default Analysis
+* Interest Rate Analysis
+* Interactive Filters & Slicers
+
+---
+
+## 📁 Repository Contents
+
+
+📁 Excel Files
+📁 SQL Queries
+📁 Power BI Dashboard
+📁 Dashboard Screenshots
+📄 Case Study Report
+📄 About Project
+
+
+---
+
+## 🚀 What I Learned
+
+This project reinforced that effective credit risk management requires more than evaluating a borrower's income or charging higher interest rates.
+By analyzing borrower demographics, loan characteristics, credit history, repayment behavior, and affordability together, 
+
+I gained valuable insights into the factors that drive loan defaults.
+The analysis demonstrated how data can help financial institutions strengthen underwriting, optimize risk-based pricing, reduce credit losses, 
+and make more informed lending decisions through evidence-based analysis.
