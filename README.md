@@ -1,4 +1,4 @@
-# 30-Days-30-DA-Project-and-Case-Study
+# 7-Days-7-DA-Project-and-Case-Study
 
 
 ### Day 1 - Customer & Sales Behavior Analysis | Online Retail
