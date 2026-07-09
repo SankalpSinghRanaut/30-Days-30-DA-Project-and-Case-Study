@@ -303,7 +303,7 @@ Built end-to-end with **Microsoft Excel**, **MySQL**, and **Power BI**.
 If this repo helped you or you just enjoyed the read, a ⭐ means a lot.
 
 [![GitHub](https://img.shields.io/badge/GitHub-SankalpSinghRanaut-181717?style=for-the-badge&logo=github)](https://github.com/SankalpSinghRanaut)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SankalpSinghRanaut)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sankalp-singh-ranaut/)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0f2027&height=100&section=footer" width="100%"/>
 
